@@ -16,8 +16,8 @@ class Fun {
             return b
     }
 }
-
+/*
 fun main(args: Array<String>) {
     val fun1 = Fun()
     println(fun1.max(4, 6))
-}
+}*/

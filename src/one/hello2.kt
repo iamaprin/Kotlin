@@ -9,13 +9,14 @@ package one
  */
 
 public class CustomerKotlin(var name: String, var email: String, var country: String)
-
+/*
 fun main(args: Array<String>) {
     //var customer1 = CustomerKotlin("Joe", "joe@gmail.com", "US")
 
     //println(customer1)
     println(max(3, 5))
 }
+*/
 
 fun max(a: Int, b: Int): Int {
     if (a > b)
